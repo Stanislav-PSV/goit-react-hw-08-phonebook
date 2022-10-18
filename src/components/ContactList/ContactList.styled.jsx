@@ -18,7 +18,7 @@ export const Contact = styled.p`
 export const ButtonClose = styled.button`
 	padding: 0 5px 5px 5px;
 	font-size: 20px;
-	width: 30px;
+	width: 20px;
 	background-color: inherit;
 	border: 1px solid var(--color-button);
 	border-radius: 5px;
